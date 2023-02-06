@@ -112,7 +112,12 @@ display: flow-root;
   transition: all ease-in-out 250ms;
 
 }
-  
+
+figcaption {
+  font-size: xx-small;
+  text-indent: 15%;
+  opacity: 25%;
+}
 
 .productline {
   background: #fff;
